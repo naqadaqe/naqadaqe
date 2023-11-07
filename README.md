@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact : I play **Capoeira and Music**
 
-<h3 align="left">Work with me:</h3>
+### Work with me:
+
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 
