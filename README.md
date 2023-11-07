@@ -5,18 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naqadaqe" alt="naqadaqe" /></a> </p>
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=naqadaqe" alt="naqadaqe")](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👔 I’m currently working on **Upwork** 
-
 - 🌱 I’m currently mastering **Javascript**
-
 - 💬 I'm currently learning **Thai** 🇹🇭
-  
 - 🤝 I’m looking to collaborate on **Any New Project**
-
 - 👨‍💻 My personal blogging at [https://naqadaqe.github.io](https://naqadaqe.github.io)
-
 - ✍️ Reach me at **naqadaqe@gmail.com**
-
 - ⚡ Fun fact : I play **Capoeira and Music**
 
 #### Work with me:
@@ -24,7 +20,6 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016aa03f9cad325249)
 
 #### Languages and Tools:
-
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
@@ -38,7 +33,3 @@
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](#)
-
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqadaqe&theme=white-cyan&width=200&height=100)
-
