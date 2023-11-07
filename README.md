@@ -9,8 +9,8 @@
 - 🌱 I’m currently mastering **Javascript**
 - 💬 I'm currently learning **Thai** 🇹🇭
 - 🤝 I’m looking to collaborate on **Any New Project**
-- 👨‍💻 My personal blogging at [https://naqadaqe.github.io](https://naqadaqe.github.io)
-- ✍️ Reach me at [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naqadaqe@gmail.com) naqadaqe@gmail.com
+- 👨‍💻 My personal blogging at 🌐 [https://naqadaqe.github.io](https://naqadaqe.github.io)
+- ✍️ Reach me at ✉️ naqadaqe@gmail.com
 - ⚡ Fun fact : I play **Capoeira and Music**
 
 #### Work with me:
