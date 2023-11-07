@@ -21,7 +21,7 @@
 
 ### Work with me:
 
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016aa03f9cad325249)
 
 
 <h3 align="left">Languages and Tools:</h3>
