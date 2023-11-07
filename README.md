@@ -1,11 +1,9 @@
 <h2 align="center">Hi 👋, I'm Quik Naqadaqe</h1>
 <h4 align="center">A passionate self-taught developer from Malaysia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naqadaqe&label=Profile%20views&color=0e75b6&style=flat" alt="naqadaqe" /> </p>
+[![Visitor](https://komarev.com/ghpvc/?username=naqadaqe&label=Profile%20views&color=0e75b6&style=flat)](#)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naqadaqe" alt="naqadaqe" /></a> </p>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=naqadaqe" alt="naqadaqe")](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=naqadaqe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👔 I’m currently working on **Upwork** 
 - 🌱 I’m currently mastering **Javascript**
