@@ -40,7 +40,5 @@
 [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](#)
 
 
-![StarChart](https://starchart.cc/naqadaqe/naqadaqe.github.io.svg)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqadaqe&theme=white-cyan)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqadaqe&theme=white-cyan | width=100%)
 
